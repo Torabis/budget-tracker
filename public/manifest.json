@@ -1,7 +1,7 @@
 {
   "name": "Budget Tracker",
   "short_name": "Budget",
-  "description": "An app that allows you to track your credits and debits.",
+  "description": "An app that allows you to track your income and expenses.",
   "background_color": "#01579b",
   "theme_color": "#ffffff",
   "start_url": "/",
