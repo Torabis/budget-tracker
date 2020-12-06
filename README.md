@@ -2,7 +2,7 @@
 
 ## Description
 - Using Progressive Web Application (PWA) this application enables the user to add expenses and deposits to their budget with or without an online connection. When entering transactions offline, data should populate the total when connected back online.
-- Launch the application [![Deployed](https://img.shields.io/badge/Heroku-Link-52A55D.svg)]()
+- Launch the application [![Deployed](https://img.shields.io/badge/Heroku-Link-52A55D.svg)](https://quiet-headland-81773.herokuapp.com/)
 
 ## Table of Contents
 
